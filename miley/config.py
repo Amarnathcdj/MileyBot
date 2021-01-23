@@ -50,7 +50,7 @@ class Config(object):
     LASTFM_API_KEY = None
     LYDIA_API = None
     API_OPENWEATHER = None
-    
+    SW_API = None
    
   
 class Production(Config):
